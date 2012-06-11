@@ -1,0 +1,9 @@
+*.o
+*#
+*~
+a.out
+*.s
+*.coff
+test/*
+bin/*
+
